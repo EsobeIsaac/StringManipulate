@@ -1,0 +1,14 @@
+{
+  "name": "string_utility",
+  "version": "1.0.0",
+  "description": "Reusable string library that provides a set of commonly used string manipulation function",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^3.0.4"
+  }
+}
