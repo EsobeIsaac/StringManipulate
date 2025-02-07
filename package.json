@@ -6,8 +6,9 @@
   "scripts": {
     "test": "vitest"
   },
-  "author": "",
+  "author": "esobeisaac esobeisaac20@gmail.com",
   "license": "ISC",
+  "homepage": "https://github.com/esobeisaac/string_utility#readme",
   "devDependencies": {
     "vitest": "^3.0.4"
   }
