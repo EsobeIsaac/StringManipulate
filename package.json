@@ -1,5 +1,5 @@
 {
-  "name": "string_utility",
+  "name": "@esobe/string-utility",
   "version": "1.0.0",
   "description": "Reusable string library that provides a set of commonly used string manipulation function",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "author": "esobeisaac esobeisaac20@gmail.com",
   "license": "ISC",
-  "homepage": "https://github.com/esobeisaac/string_utility#readme",
+  "homepage": "https://github.com/esobeisaac/string-utility#readme",
   "devDependencies": {
     "vitest": "^3.0.4"
   }
