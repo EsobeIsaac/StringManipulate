@@ -12,7 +12,7 @@ This is a javascript string manipulation library that has commonly used string m
 ## Installation
 Download the index file and include in your html file as
 ```
-npm i string-manipulate
+npm i string_utility
 ```
 **filepath** is the path to the downloaded file **Please rename the file if there's another index.js in the same folder it resides**
 
@@ -20,7 +20,7 @@ npm i string-manipulate
 
 ### Reverse:
 ```
-import {reverse} from "string-manipulate";
+import {reverse} from "string_utility";
 
 let originalString = 'Your string'
 let reversedString = reverse(originalString)
@@ -28,7 +28,7 @@ let reversedString = reverse(originalString)
 
 ### isPalindrome:
 ```
-import {isPalindrome} from "string-manipulate";
+import {isPalindrome} from "string_utility";
 
 let myString = 'Your string'
 let isPalin = isPalindrome(myString)
@@ -37,7 +37,7 @@ let isPalin = isPalindrome(myString)
 
 ### wordCount:
 ```
-import {wordCount} from "string-manipulate";
+import {wordCount} from "string_utility";
 
 let myString = 'Your string'
 let count = wordCount(myString)
@@ -46,7 +46,7 @@ let count = wordCount(myString)
 
 ### characterFrequency:
 ```
-import {characterFrequency} from "string-manipulate";
+import {characterFrequency} from "string_utility";
 
 let myString = 'Your string'
 let frequency = characterFrequency(myString)
@@ -55,7 +55,7 @@ let frequency = characterFrequency(myString)
 
 ### toTitleCase:
 ```
-import {toTitleCase} from "string-manipulate";
+import {toTitleCase} from "string_utility";
 
 let myString = 'Your string'
 let title = toTitleCase(myString)
@@ -64,7 +64,7 @@ let title = toTitleCase(myString)
 
 ### toTitleCase:
 ```
-import {trim} from "string-manipulate";
+import {trim} from "string_utility";
 
 let myString = '  Your string '
 let trimedString = trim(myString)
